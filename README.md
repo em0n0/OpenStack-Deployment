@@ -27,7 +27,7 @@ Everything is driven by a single configuration file (`configs/main.env`) that th
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/openstack-complete.git
+git clone https://github.com/em0n0/openstack-complete.git
 cd openstack-complete
 
 # Run — the wizard launches automatically on first use
